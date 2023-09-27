@@ -31,8 +31,8 @@ Our vision is to create a dynamic community where users can effortlessly rank, d
 ## User Requirements
 
 - As a user, I want to be able to sign up for an account so that I can access and utilize the features and services provided by the application.
-- As a user, I want to be able to compare albums with one another and choose which one I like better. 
-- As a user, I want to be able to see the 1-10 star rating on the albums I listen to so that I can see how popular the album is.
+- As a user, I want to be able to compare albums with one another and choose which one I like better in order to rank. 
+- As a user, I want to be able to see the calculated 1-10 star rating on the albums I have rated so I can see my own ranking of albums.
 - As a user, I want to be able to see how my friends rate albums they listen to so that I know what they like or what they think about the music.
 - As a user, I want to be able to compare my ratings with my friends ratings on an album so that I could see the difference in our opinions.
 - As a user, I want to be able to see all the albums I have ever rated so that I can keep track of and rank everything that I listened to.
