@@ -4,7 +4,9 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+Megan Chen - https://github.com/meganchen99
+Gabriel Park - https://github.com/gmp9469
+Emma Zheng - https://github.com/emxyz
 
 ## Stakeholders
 
@@ -21,14 +23,10 @@ Problems/Frustrations:
 - Lack of community or group interaction
 - Platforms dont have any criticism/ratings for users to understand public opinion on the music
 - Lack of shareability of music taste. It is hard to descriptively share what you are listening to.
-  
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
 ## Product Vision Statement
 
 Our vision is to create a dynamic community where users can effortlessly rank, discover, and share music to engage meaningful conversations around music. 
-
-See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
