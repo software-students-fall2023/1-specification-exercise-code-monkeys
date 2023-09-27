@@ -4,9 +4,9 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Megan Chen - https://github.com/meganchen99 
-Gabriel Park - https://github.com/gmp9469 
-Emma Zheng - https://github.com/emxyz 
+Megan Chen - https://github.com/meganchen99  
+Gabriel Park - https://github.com/gmp9469  
+Emma Zheng - https://github.com/emxyz  
 
 ## Stakeholders
 
