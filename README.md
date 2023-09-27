@@ -37,7 +37,7 @@ Our vision is to create a dynamic community where users can effortlessly rank, d
 - As a user, I want to be able to read reviews on the albums I listen to so that I can see the public opinon on it.
 - As a user, I want to be able to see how my friends rate albums they listen to so that I know what they like or what they think about the music.
 - As a user, I want to be able to compare my ratings with my friends ratings on an album so that I could see the difference in our opinions.
-- - As a user, I want to be able to see all the albums I have ever rated so that I can keep track of and rank everything that I listened to.
+- As a user, I want to be able to see all the albums I have ever rated so that I can keep track of and rank everything that I listened to.
 - As a user, I want to be able to make lists with the albums I enjoy so that I can remember my favorite albums.
 - As a user, I want to be able to share the lists I make so that my friends and other people can see my music taste.
 - As a user, I want to be able to react to the lists that are shared with me so that I can tell them what I think. 
