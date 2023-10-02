@@ -47,4 +47,4 @@ Our vision is to create a dynamic community where users can effortlessly rank, d
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/file/R06o8oqzL44rI1vLhadbcI/Software-Engineering-Project-1?type=design&node-id=0%3A1&mode=design&t=mbxato41dRbkbTWk-1
