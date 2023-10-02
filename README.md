@@ -43,7 +43,7 @@ Our vision is to create a dynamic community where users can effortlessly rank, d
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+<img width="1133" alt="Screenshot 2023-09-27 at 5 58 56 PM" src="https://github.com/software-students-fall2023/1-specification-exercise-code-monkeys/assets/31500648/8ac820c2-54c0-45f6-994a-e51a10c42169">
 
 ## Clickable Prototype
 
